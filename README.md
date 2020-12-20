@@ -7,7 +7,7 @@ A software engineer from New York City. Passionate about learning, building and 
 - 👯 I’m looking for job opportunites for me to contribute my building and developing skills as a software engineer in an awesome company.
 - 💬 Ask me about web development
 - 📫 How to reach me:
-  - Website - [johnpoon.dev](https://johnpoon-dev.vercel.app/)
+  - Website - [johnpoon.dev](https://johnpoon.dev/)
   - Linkedin - [John Poon](https://www.linkedin.com/in/john-poon/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love hiking and traveling.
